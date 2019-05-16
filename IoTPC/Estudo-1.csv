@@ -1,0 +1,62 @@
+Idade,Sexo,Escolaridade,IUICo1,IUIAw2,IUIAw3,IUIColl4,IUIColl5,IUIColl6,MUIPs7,MUIPs8,MUIPs9,MUIPi10,MUIPi11,MUISui12,MUISui13,MUISui14,AIPGen15,AIPGen16,AIPGen17
+19,Masculino,Graduando,1,1,1,2,1,1,1,2,2,1,2,1,1,1,3,2,1
+21,Masculino,Graduando,1,4,1,1,1,1,2,1,1,1,1,1,1,2,2,1,1
+20,Masculino,Graduando,1,1,1,2,3,4,2,2,2,2,2,2,3,2,4,4,3
+22,Masculino,Graduando,2,2,1,1,1,1,1,1,1,1,1,1,1,1,2,2,2
+24,Masculino,Graduando,2,5,2,5,4,4,1,5,4,5,2,4,4,4,5,4,4
+21,Masculino,Graduando,4,4,1,2,1,2,4,4,4,2,2,4,4,4,4,4,4
+29,Masculino,Graduando,5,1,1,4,2,2,2,4,2,4,2,1,1,1,5,4,4
+23,Masculino,Graduando,2,1,1,5,4,4,1,5,5,4,4,2,2,2,5,1,4
+26,Masculino,Graduando,2,1,1,1,1,1,1,1,1,5,2,2,1,1,2,2,1
+20,Masculino,Graduando,1,1,1,1,1,1,1,1,1,1,1,1,2,2,2,4,1
+23,Masculino,Graduando,1,1,1,1,1,1,1,1,4,1,1,1,1,1,2,1,1
+23,Masculino,Graduando,1,1,1,4,3,2,2,1,2,2,2,1,1,1,2,1,1
+20,Masculino,Graduando,2,1,1,2,1,1,5,1,1,1,5,2,2,1,5,1,1
+26,Masculino,Graduando,2,1,1,2,2,1,2,2,1,1,1,1,1,1,1,1,1
+20,Masculino,Graduando,1,2,4,4,5,2,1,3,1,2,2,1,4,1,5,4,2
+21,Masculino,Graduando,1,1,1,4,1,2,1,4,5,1,5,2,1,1,5,2,5
+18,Masculino,Graduando,2,1,1,4,1,5,1,5,5,5,1,5,5,1,5,1,1
+32,Masculino,Graduando,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+23,Masculino,Pós Graduando,1,5,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1
+19,Feminino,Graduando,1,2,1,2,2,2,1,1,3,2,1,1,1,1,1,1,1
+18,Masculino,Graduando,1,1,1,2,2,2,2,2,2,2,2,1,1,1,1,1,1
+20,Masculino,Graduando,1,1,1,3,4,2,3,4,1,1,1,1,2,2,4,2,3
+20,Masculino,Graduando,2,2,1,2,4,2,5,2,5,3,5,2,4,2,5,2,4
+27,Masculino,Graduando,2,2,1,1,1,1,1,1,2,1,1,2,2,1,1,1,1
+26,Masculino,Graduado,1,1,1,4,4,4,5,3,1,2,1,1,1,1,1,4,2
+25,Masculino,Graduando,1,1,1,2,2,2,1,2,4,2,2,2,2,2,2,4,4
+21,Feminino,Graduando,1,5,1,1,1,2,1,1,1,5,1,1,2,1,1,1,1
+33,Masculino,Pós Graduado,1,1,1,2,1,2,1,2,2,2,2,1,1,1,2,2,2
+25,Masculino,Graduando,1,1,1,2,1,4,1,4,4,2,2,4,4,4,4,1,2
+19,Masculino,Graduando,1,1,1,2,2,2,1,2,2,2,2,1,1,1,4,4,3
+19,Masculino,Graduando,1,1,2,2,1,1,1,1,1,1,1,1,1,1,1,2,2
+22,Masculino,Graduando,1,1,1,2,2,3,1,3,4,2,2,2,1,2,3,3,3
+24,Masculino,Graduado,1,1,1,2,1,2,1,2,2,4,4,1,1,1,2,4,1
+22,Masculino,Graduado,1,1,1,1,1,1,2,2,1,2,2,2,1,1,2,1,1
+28,Masculino,Pós Graduado,3,2,2,2,1,4,1,2,2,3,4,2,3,2,5,4,3
+20,Masculino,Graduando,1,1,1,4,1,3,1,4,4,5,4,2,2,1,5,3,5
+18,Masculino,Graduando,3,1,1,2,2,4,1,2,2,2,1,2,2,3,2,5,2
+19,Feminino,Graduando,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1
+29,Masculino,Pós Graduado,1,1,1,4,1,2,1,2,2,2,1,1,1,1,1,1,1
+37,Masculino,Graduando,2,1,1,1,1,1,1,1,1,2,3,1,1,4,1,5,1
+37,Masculino,Graduando,2,1,1,1,1,1,1,1,1,2,3,1,1,4,1,5,1
+19,Masculino,Graduando,1,2,1,2,4,4,2,4,2,4,4,2,2,2,4,3,3
+22,Feminino,Graduando,1,1,1,4,2,2,1,1,1,1,2,1,1,1,3,2,1
+24,Feminino,Graduando,1,1,1,2,2,3,1,1,1,1,2,2,1,2,3,3,1
+27,Masculino,Graduando,1,1,1,4,4,4,1,1,4,4,2,2,4,4,4,3,4
+23,Feminino,Graduando,1,2,1,2,2,1,5,4,4,2,2,2,2,1,4,4,2
+29,Masculino,Graduado,1,1,1,2,2,2,1,1,2,2,2,1,1,1,2,2,2
+23,Masculino,Graduado,2,1,1,1,1,1,4,1,1,1,1,1,1,1,1,2,1
+28,Feminino,Pós Graduado,1,1,2,2,4,4,1,2,2,1,1,1,2,1,4,4,4
+23,Masculino,Graduando,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+24,Masculino,Graduando,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+22,Feminino,Graduando,4,3,2,2,4,2,2,4,2,2,2,2,4,2,2,2,3
+21,Masculino,Graduando,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+23,Masculino,Graduando,2,2,2,2,2,5,2,2,1,2,1,3,2,1,1,2,1
+21,Masculino,Graduando,1,1,1,1,1,1,5,2,1,5,4,3,2,2,5,5,5
+20,Masculino,Graduando,4,4,4,4,4,4,4,5,5,5,4,5,4,4,5,5,5
+20,Masculino,Graduando,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+20,Masculino,Graduando,2,2,2,1,1,2,1,2,2,3,3,3,2,2,3,2,2
+20,Masculino,Graduando,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+21,Feminino,Graduando,4,4,4,5,4,4,4,5,4,4,4,3,2,4,4,3,5
+22,Masculino,Graduando,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
